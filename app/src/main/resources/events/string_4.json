@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "datetime_created": "2024-08-06T16:30:00Z",
+    "id": "4",
+    "payload_type": "string"
+  },
+  "key": "message",
+  "value": "four"
+}

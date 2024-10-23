@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "datetime_created": "2024-08-06T13:45:00Z",
+    "id": "23456",
+    "payload_type": "integer"
+  },
+  "key": "transaction_id",
+  "value": 987654321
+}

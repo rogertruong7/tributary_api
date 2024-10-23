@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "datetime_created": "2024-08-06T10:15:30Z",
+    "id": "67890",
+    "payload_type": "string"
+  },
+  "key": "customer_name",
+  "value": "1"
+}

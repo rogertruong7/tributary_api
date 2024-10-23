@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "datetime_created": "2024-08-06T10:15:30Z",
+    "id": "12345",
+    "payload_type": "integer"
+  },
+  "key": "order_number",
+  "value": 2121219289
+}
